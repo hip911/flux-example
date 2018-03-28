@@ -1,0 +1,1 @@
+{"jobID":"4bff039c-ecfa-76eb-3a78-f30d586b7986","spec":{"type":"policy","cause":{"Message":"","User":"Gabor Csikos \u003ckecsap@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
